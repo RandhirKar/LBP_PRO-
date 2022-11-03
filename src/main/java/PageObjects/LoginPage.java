@@ -27,5 +27,4 @@ public class LoginPage {
 		this.driver = driver;
 	    PageFactory.initElements(driver, this);
 	}
-
 }
